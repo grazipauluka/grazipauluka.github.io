@@ -1,0 +1,20 @@
+
+    div h1 {text-align: center;}
+    body{background-color:  rgb(160, 113,115);}
+    p{color: rgb(230,204,190); font-family: monospace; font-size:larger;}
+    ul{color:rgb(230,204,190); font-size: larger; font-style: inherit; background-color: rgb(119,98,116);}
+    img    {
+        border-radius: 50%;
+    } 
+    h1{font-family: fantasy; color:rgb(119,98,116) ;}
+    ul{font-family: monospace;}
+    .button { background-color: rgb(160, 113,115);
+        -webkit-border-radius: 28;
+      -moz-border-radius: 28;
+      border-radius: 28px;
+      font-family: Arial;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;}
+    
