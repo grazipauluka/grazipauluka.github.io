@@ -1,8 +1,14 @@
 
    .header { background-image: url(sai-kiran-anagani-5Ntkpxqt54Y-unsplash.jpg); background-position:  50% 25%; background-size: cover; margin: 0px;}
    
-   .header .imagem {display: inline-block; border-radius: 50%}
-   .imagem {border-radius: 50%;}
+   .header .imagem {display: inline-block;}
+   #grazi {
+    margin: 1px 4px 0 0;
+    padding: 3px;
+    background-color: #ffffff; 
+    border: 1px solid #dbdbdb;
+    border-radius: 40%;
+    }
    .header .info {display: inline-block;} 
     div h1 {text-align: center;}
     body{background-color:  rgb(160, 113,115);}
