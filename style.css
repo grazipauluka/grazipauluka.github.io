@@ -1,5 +1,5 @@
 
-   .header { background-image: url(sai-kiran-anagani-5Ntkpxqt54Y-unsplash.jpg); background-position:  50% 25%; background-size: cover; margin: 0px;}
+   .header { background-image: url(sai-kiran-anagani-5Ntkpxqt54Y-unsplash.jpg); background-position:  50% 25%; background-size: cover; margin: 2px 4px; padding: 3px; border: orange; border-radius: 50px;}
    
    .header .imagem {display: inline-block;}
    #grazi {
@@ -9,14 +9,25 @@
     border: 1px solid #dbdbdb;
     border-radius: 40%;
     }
-   .header .info {display: inline-block;} 
+   .header .info {display: inline-block; } 
+   .info{color: coral; background-color: rgb(119,98,116); margin: 3px 2px; 
+    padding: 8px;
+    border: 2px solid coral;
+    border-radius: 50px; }
     div h1 {text-align: center;}
-    body{background-color:  rgb(160, 113,115);}
+    body{background-color:  #b9a7a8;}
     p{color: rgb(230,204,190); font-family: monospace; font-size:larger;}
     ul{color:rgb(230,204,190); font-size: larger; font-style: inherit; background-color: rgb(119,98,116);}
        
-    h1{font-family: fantasy; color:rgb(119,98,116) ;}
-    ul{font-family: monospace;}
+    h1{font-family: fantasy; color: whitesmoke ;}
+    ul{font-family: monospace;
+     margin: 3px 2px; 
+    padding: 6px;
+    border: 2px solid coral;
+    border-radius: 50px;}
+    li {margin: 4px 3px; padding: 1px; margin-left: 2cm;}
+    
+
     .button { background-color: rgb(160, 113,115);
     -webkit-border-radius: 28;
       -moz-border-radius: 28;
